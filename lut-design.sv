@@ -1,4 +1,24 @@
-// Code your design here
+// $Header: /devl/xcs/repo/env/Databases/CAEInterfaces/verunilibs/data/unisims/LUT2.v,v 1.7 2007/05/23 21:43:39 patrickp Exp $
+///////////////////////////////////////////////////////////////////////////////
+// Copyright (c) 1995/2004 Xilinx, Inc.
+// All Right Reserved.
+///////////////////////////////////////////////////////////////////////////////
+//   ____  ____
+//  /   /\/   /
+// /___/  \  /    Vendor : Xilinx
+// \   \   \/     Version : 10.1
+//  \   \         Description : Xilinx Functional Simulation Library Component
+//  /   /                  2-input Look-Up-Table with General Output
+// /___/   /\     Filename : LUT2.v
+// \   \  /  \    Timestamp : Thu Mar 25 16:42:53 PST 2004
+//  \___\/\___\
+//
+// Revision:
+//    03/23/04 - Initial version.
+//    02/04/05 - Rev 0.0.1 Replace premitive with function; Remove buf.
+//    05/23/07 - Changed timescale to 1 ps / 1 ps.
+//    28/10/2014 - SystemVerilog Model// Code your design here
+
 `timescale  1 ps / 1 ps
 
 
